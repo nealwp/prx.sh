@@ -10,7 +10,7 @@ Ever needed the same change in a bunch of repos? Look no further. Save yourself 
 * Checkout to a new branch
 * Make the desired change
 * Commit and push the changes
-* Open a PR to a specific target branch
+* Open a PR to merge to a target branch
 * Clean up the temp folder
 
 ## Prereqs
