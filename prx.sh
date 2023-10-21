@@ -19,7 +19,11 @@ for REPO in "${REPOS[@]}"; do
 
     git checkout -b "$BRANCH_NAME" > /dev/null 2>&1
     
-    # do what you want to the repo here
+    ############
+
+    # do whatever you want to the repo here
+
+    ############
     
     git add . > /dev/null 2>&1
     git commit -m "$COMMIT_MESSAGE" > /dev/null 2>&1
